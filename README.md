@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Gonzalo Corradi 👋
 
-<!--
-**CorradiGonzalo/CorradiGonzalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería en Sistemas de Información (UTN) | Desarrollador Trainee / Junior
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología y la resolución de problemas a través del código. Actualmente estoy cursando mi carrera en la UTN y complementando mi formación con un fuerte enfoque en desarrollo FullStack e Inteligencia Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en: Mis proyectos personales y profundizando en  algunas tecnologias como Node.js, Java, n8n  y Pyhton.
+- 🌱 Aprendiendo: **IA Automation** (próximamente) y perfeccionando el uso de la **Terminal de Linux**.
+- 🥅 Objetivos 2026: Conseguir mi primer rol en IT para aplicar mis conocimientos académicos en problemas reales.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** Python, Java, JavaScript, Haskell, Pharo.
+- **Web:** HTML5, CSS3, SASS.
+- **Back-end & DB:** Node.js, MongoDB.
+- **Herramientas:** Git, GitHub, Linux Terminal.
+
+---
+
+### 📫 Contactame:
+- **LinkedIn:** https://www.linkedin.com/in/gonzalo-corradi-096641195/
+- **Email:** corradi.gonzalo@gmail.com o corradigonzalo9@gmail.com
