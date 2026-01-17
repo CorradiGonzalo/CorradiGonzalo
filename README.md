@@ -5,7 +5,7 @@
 Soy un apasionado de la tecnología y la resolución de problemas a través del código. Actualmente estoy cursando mi carrera en la UTN y complementando mi formación con un fuerte enfoque en desarrollo FullStack e Inteligencia Artificial.
 
 - 🔭 Actualmente estoy trabajando en: Mis proyectos personales y profundizando en  algunas tecnologias como Node.js, Java, n8n  y Pyhton.
-- 🌱 Aprendiendo: **IA Automation** (próximamente) y perfeccionando el uso de la **Terminal de Linux**.
+- 🌱 Aprendiendo: **IA Automation** y perfeccionando el uso de la **Terminal de Linux**.
 - 🥅 Objetivos 2026: Conseguir mi primer rol en IT para aplicar mis conocimientos académicos en problemas reales.
 
 ---
